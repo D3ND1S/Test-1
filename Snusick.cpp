@@ -2,6 +2,7 @@
 
 int main()
 {
+	std::cout << "kek bracnh\n";
 	std::cout << "Hello World!\n";
 	int a = 0;
 	for (int i = 2; i < 10; i++)
